@@ -1,6 +1,7 @@
 import "/src/Components/Experience/experience.css";
 import React from 'react';
 import Navbar from "/src/Components/Navbar/navbar.jsx";
+import Footer from "/src/Components/Footer/footer.jsx"
 const experience = () => {
   return (
     <>
@@ -43,6 +44,7 @@ const experience = () => {
         </div>
       </div>
     </section>
+    <Footer />
     </>
   );
 }
