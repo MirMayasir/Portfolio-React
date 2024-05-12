@@ -1,17 +1,18 @@
+import React from 'react';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from './Components/Home/home.jsx';
+import Navbar from '/src/Components/Navbar/navbar.jsx'
 
-import Home from '/src/Components/Home/home.jsx'
-
-class App  {
-  render() {
+const App = () =>  {
+  
     return (
-        <Router>
+      <BrowserRouter>
         <Routes>
-          <Route exact path="/home" element={<Home />} />
-        </Routes>
-      </Router>
+          <Route exact path="/" element={<Home />} />
+          </Routes>
+      </BrowserRouter>
       
     );
-  }
-}
+   }
 
 export default App;

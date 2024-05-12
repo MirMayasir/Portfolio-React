@@ -8,8 +8,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    /* position: sticky;
-    top: 0; */
     background-color:  #38737e;
 }
 
@@ -94,7 +92,6 @@ body {
 
     .resume-image {
         padding-right: 43%;
-        /* margin-top: 4%; */
         text-align: center;
     }
 }
