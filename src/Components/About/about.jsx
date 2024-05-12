@@ -4,7 +4,7 @@ const about = () => {
     return (
         <div id="about">
             <div className="resume-image">
-                <img src="images/photo.png" alt="error" />
+                <img src="/src/assets/photo.png" alt="error" />
             </div>
             <div className="information">
                 <h1>Hello</h1>
