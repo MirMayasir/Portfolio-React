@@ -27,9 +27,9 @@ const navbar = () => {
                 <span className="span-line">|</span>
                 <h3><Link to="/Education">Education</Link></h3>
                 <span className="span-line">|</span>
-                <h3><Link to="/projects">Projects</Link></h3>
+                <h3><Link to="/Projects">Projects</Link></h3>
                 <span className="span-line">|</span>
-                <h3><Link to="/contact">Contact</Link></h3>
+                <h3><Link to="/ContactUs">Contact</Link></h3>
             </div>
 
         </div>
