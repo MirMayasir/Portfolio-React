@@ -76,8 +76,13 @@ function education() {
           <h4>HTML <span>(Advanced)</span></h4>
           <h4>CSS <span>(Advanced)</span></h4>
           <h4>JavaScript <span>(Intermediate)</span></h4>
-          <h4>SQL <span>(Basic)</span></h4>
+          <h4>MySQL <span>(Intermediate)</span></h4>
           <h4>Bootstrap <span>(Intermediate)</span></h4>
+          <h4>React.js <span>(Intermediate)</span></h4>
+          <h4>Node.js <span>(Intermediate)</span></h4>
+          <h4>AWS Hosting <span>(Intermediate)</span></h4>
+          <h4>API Testing <span>(Intermediate)</span></h4>
+          <h4>Routes Setting <span>(Intermediate)</span></h4>
         </div>
       </div>
 

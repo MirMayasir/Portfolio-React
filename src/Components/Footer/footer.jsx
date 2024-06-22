@@ -1,4 +1,6 @@
 import '/src/Components/Footer/footer.css';
+import { FaSquareInstagram } from "react-icons/fa6";
+import { FaLinkedin } from "react-icons/fa";
 
 const footer = () => {
     return (
@@ -7,7 +9,7 @@ const footer = () => {
             <div id="footer">
                 <div className="phone">
                     <h2>Phone</h2>
-                    <p>8493037519</p>
+                    <p>+91 8493037519</p>
                 </div>
                 <div className="email">
                     <h2>Email</h2>
@@ -15,11 +17,11 @@ const footer = () => {
                 </div>
                 <div className="follow-me">
                     <h2>Follow me</h2>
-                    <a href="https://www.linkedin.com/in/mir-mayasir-505005210/">
-                        <i className="fab fa-linkedin-in"></i>
+                    <a href="https://www.linkedin.com/in/mir-mayasir-505005210/"  >
+                    <FaLinkedin />
                     </a>
-                    <a href="https://www.instagram.com/mir.mayasir/">
-                        <i className="fab fa-instagram"></i>
+                    <a href="https://instagram.com/mir.mayasir/">
+                    <FaSquareInstagram />
                     </a>
                 </div>
                 <div className="copy-right">

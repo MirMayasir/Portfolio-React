@@ -47,6 +47,16 @@ const projects = () => {
           <img src="/src/assets/face recognition.jpeg" alt="" />
         </div>
       </div>
+
+      <div className="project-name">
+        <div className="project-details">
+          <h3>User friendly movie watchlist webapp.</h3>
+          <p>I developed a dynamic Movie Watch List web application using ReactJS for the frontend, Node.js for the backend, MySQL for the database, and Redux for state management. This app enables users to manage their movie lists by adding movies with details such as name, description, rating, and review. Users can edit movie details, mark movies as watched or unwatched, and delete movies from their list. The application is designed to be intuitive and user-friendly, ensuring a seamless experience for movie enthusiasts to track and organize their watch lists efficiently.</p>
+        </div>
+        <div className="project-img ">
+          <img src="/src/assets/Movie-watchlist.png" alt="" />
+        </div>
+      </div>
     </div>
     <Footer />
     </>

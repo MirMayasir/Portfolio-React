@@ -33,6 +33,10 @@ const experience = () => {
             <li>JavaScript</li>
             <li>React</li>
             <li>Nodejs</li>
+            <li>MySQL</li>
+            <li>API Testing</li>
+            <li>Routes Setting</li>
+            <li>Database Connections</li>
             <li>Git and GitHub</li>
             <li>AWS Hosting</li>
             <li>Hostinger VPS(To deploy the Reactjs based projecct)</li>
